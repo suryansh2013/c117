@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(248, 248, 237);
+    font-family: 'Ubuntu', sans-serif;
+}
+.header_div{
+    background-color: rgb(110, 109, 109);
+    color: whitesmoke;
+}
+.header_div p{
+    font-style: italic;
+    font-weight: bolder;
+    font-size: large;
+    letter-spacing: 2px;
+}
+.main_div button{
+    font-style: oblique;
+    margin-top: 30px;
+    width: 10%;
+    font-weight: bolder;
+    letter-spacing: 2px;
+}
+.copy_right_footer{
+    position: fixed;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    font-size: larger;
+    background-color: ghostwhite;
+    color: black;
+    line-height: 3;
+    text-shadow: 5px 5px 5px rgb(169, 169, 169);
+}
